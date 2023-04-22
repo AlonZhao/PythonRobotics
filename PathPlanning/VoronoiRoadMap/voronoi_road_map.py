@@ -140,7 +140,7 @@ def main():
 
     ox = []
     oy = []
-
+        #障碍物坐标信息
     for i in range(60):
         ox.append(i)
         oy.append(0.0)
